@@ -7,67 +7,48 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Hamid Raza
+    tagline: Software Development Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: hamioffficial@gmail.com
+    phone: +92 302 2445255
+    timezone: Pakistan/PKT
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: #do not add http://
+    linkedin: ihamidraza
+    xing:
+    github: ihamidraza
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Urdu
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Seven years of experience facilitating cutting-edge engineering solutions with a wide range of high-end application and technology skills. 
+      Proven ability to leverage full-stack expertise to build interactive and user-centered website designs to scale.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS Software Engineering
+        university: University of Engineering and Technology, Taxila, Pakistan
+        time: 2011 - 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,146 +57,109 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Tech Lead
+        time: Jan, 2022 - Present
+        company: glasc.io, Johannesburg, South Africa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Playing the role of architect, project manager, software engineer, mentor, and teammate
+            - Responsible for helping drive the high-level architectural discussions & implementation
+            - Keeeping development processes inline with the high-level product vision
+            - Delegating work and assignments to team members
+            - Supervising system modifications
+            - Guiding the team through technical issues and challenges
+            - Look for ways to improve processes and documentation
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: Oct, 2019 - Jan, 2022
+        company: glasc.io, Johannesburg, South Africa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+           - Develop software solutions by studying information needs; conferring with users; 
+           studying systems flow, data usage and work processes; investigating problem areas;
+            following the software development lifecycle
+            - Prepare and install solutions by determining and designing system specifications, standards and programming
+            - Improve operations by conducting systems analysis; recommending changes in policies and procedures
+            - Support and develop software engineers by providing advice, coaching and educational opportunities
+            - Make informed decisions quickly and taking ownership of services and applications at scale
+      - role: Senior Software Engineer
+        time: April, 2019 - Oct, 2019
+        company: AiSight.ai, Lahore, Pakistan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Determine operational feasibility by evaluating analysis, problem definition, requirements, solution development and proposed solutions
+            - Provide information by collecting, analyzing and summarizing development and service issues
+            - Develop high-quality software design and architecture
+            - Collaborate with internal teams and vendors to fix and improve product
+      - role: Full Stack Engineer
+        time: April, 2018 - April, 2019
+        company: Graana Group of Companies, Islamabad, Pakistan
+        details: |
+            - Design software system architecture
+            - Design and implement scalable web services, applications, and APIs
+            - Identify bottlenecks and improve software efficiency
+            - Collaborat with the design team on developing micro-services
+      - role: Backend Engineer
+        time: Aug, 2017 - March, 2018
+        company: CloudRanger, Letterkenny, Ireland
+        details: |
+            - Designing, building, and maintaining the server-side of web applications
+            - Inspect server code for speed optimization
+            - Conceptualize and implement solutions for data storage
+            - Improve the quality of the code through writing unit tests and automation
+      - role: Backend Developer
+        time: Sept, 2015 - July, 2017
+        company: uExel Pvt. Limited, Islamabad, Pakistan
+        details: |
+            - Write code and tests, build prototypes, resolve issues, and profile and analyze bottlenecks
+            - Design robust APIs to support mobile and desktop clients
+            - Manage and optimize scalable distributed systems in the cloud
+            - Develop automated tests to ensure business needs are met, and allow for regression testing
 projects:
-    title: Projects
+    title: Key Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Turing Insighs
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Realtime trucking weight & motion tracking, analytics calculation & fleet management."
 
-      - title: DevStudio
+      - title: Aquila EHR
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Electronic health record platform for management of multiple practices and providers, and patient appointments and scheduling."
 
-      - title: Tempo
+      - title: LeZa
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A cloud-based security gateway for application services and APIs; provides a modern security access platform for all cloud-based and legacy on-prem apps.s"
 
-      - title: Atom
+      - title: SurveyAuto
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "SurveyAuto uses Machine Learning and AI to collect and analyze data, generating real-time, actionable insights."
 
-      - title: Delta
+      - title: Graana.com
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+        tagline: "Universal real estate platform to sell, buy and rent property."
+      - title: CloudRanger
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Enterprise backup and disaster recovery platform for Amazon Web Services (AWS) EC2, RDS and Redshift resources."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: JavaScript
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Node.js
         level: 98%
 
-      - name: Angular
+      - name: React
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SQL
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: No SQL
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

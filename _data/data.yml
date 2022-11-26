@@ -143,23 +143,41 @@ projects:
         tagline: "Enterprise backup and disaster recovery platform for Amazon Web Services (AWS) EC2, RDS and Redshift resources."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Key Skills &amp; Proficiency
 
     toolset:
-      - name: JavaScript
+      - name: JavaScript (ES9, Typescript)
         level: 98%
 
-      - name: Node.js
+      - name: Node.js | Express.js
         level: 98%
 
-      - name: React
+      - name: React | AntDesign | Material UI
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS3
         level: 95%
 
-      - name: SQL
+      - name: Redis | Kafka | rabbitMQ
         level: 85%
 
-      - name: No SQL
+      - name: SQL | PostgreSQL
+        level: 85%
+
+      - name: NoSQL | MongoDB | Cassandra
+        level: 80%
+
+      - name: Docker | Kubernetes
+        level: 70%
+
+      - name: Git
+        level: 65%
+
+      - name: Nest.js | Next.js | GraphQL
         level: 60%
+
+      - name: Python
+        level: 60%
+
+      - name: AWS (EC2, S3 Bucket, Load Balancer)
+        level: 55%

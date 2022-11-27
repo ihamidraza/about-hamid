@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Hamid Raza
-    tagline: Software Development Engineer
+    tagline: Software Development Engineer (MERN)
     avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,8 +41,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seven years of experience facilitating cutting-edge engineering solutions with a wide range of high-end application and technology skills. 
-      Proven ability to leverage full-stack expertise to build interactive and user-centered website designs to scale.
+      Seven years of experience in facilitating cutting-edge engineering solutions with a wide range of high-end application and technology skills. 
+      Proven track record of full-stack expertise to build interactive and user-centered website designs to scale.
 education:
     title: Education
     info:

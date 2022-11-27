@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Hamid Raza
     tagline: Software Development Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hamioffficial@gmail.com
@@ -50,13 +50,6 @@ education:
         university: University of Engineering and Technology, Taxila, Pakistan
         time: 2011 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experience
@@ -67,7 +60,7 @@ experiences:
         details: |
             - Playing the role of architect, project manager, software engineer, mentor, and teammate
             - Responsible for helping drive the high-level architectural discussions & implementation
-            - Keeeping development processes inline with the high-level product vision
+            - Keeping development processes inline with the high-level product vision
             - Delegating work and assignments to team members
             - Supervising system modifications
             - Guiding the team through technical issues and challenges

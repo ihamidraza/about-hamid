@@ -52,7 +52,7 @@ education:
         details: |
 
 experiences:
-    title: Experience
+    title: Work Experience
     info:
       - role: Tech Lead
         time: Jan, 2022 - Present
@@ -136,7 +136,7 @@ projects:
         tagline: "Enterprise backup and disaster recovery platform for Amazon Web Services (AWS) EC2, RDS and Redshift resources."
 
 skills:
-    title: Key Skills &amp; Proficiency
+    title: Key Expertise
 
     toolset:
       - name: JavaScript (ES9, Typescript)

@@ -4,17 +4,6 @@
 
 Welcome to the repository for my personal portfolio website. This portfolio showcases my professional journey, projects, skills, and experiences as a tech lead and MERN stack engineer. Visit my portfolio at [hamid-raza.com](https://hamid-raza.com).
 
-## Table of Contents
-
-- [Hamid Raza's Portfolio](#hamid-razas-portfolio)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Features](#features)
-  - [Technologies Used](#technologies-used)
-  - [Installation](#installation)
-  - [To preview/edit locally with docker](#to-previewedit-locally-with-docker)
-    - [Local machine](#local-machine)
-
 ## About
 
 I'm Hamid Raza, a tech lead with over 8 years of experience in the MERN stack. My portfolio provides an overview of my work, including the various projects I have contributed to and led. It also highlights my technical skills, professional experience, and educational background.

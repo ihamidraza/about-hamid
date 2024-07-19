@@ -14,11 +14,11 @@ sidebar:
   avatar: avatar_1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: hamioffficial@gmail.com
-  phone: +92 302 2445255
+  email: hamiofficial@gmail.com
+  phone: +92 302 244 5255
   timezone: Pakistan/PKT
   citizenship:
-  website: #do not add http://
+  website: hamid-raza.com
   linkedin: ihamidraza
   xing:
   github: ihamidraza
@@ -87,7 +87,7 @@ experiences:
         - Design software system architecture
         - Design and implement scalable web services, applications, and APIs
         - Identify bottlenecks and improve software efficiency
-        - Collaborat with the design team on developing micro-services
+        - Collaborate with the design team on developing micro-services
     - role: Backend Engineer
       time: 2017 - 2018
       company: CloudRanger, Letterkenny, Ireland
@@ -108,7 +108,7 @@ projects:
   title: Key Projects
   intro: >
   assignments:
-    - title: Turing Insighs
+    - title: Turing Insights
       link: '#hook'
       tagline: 'Realtime trucking weight & motion tracking, analytics calculation & fleet management.'
 
